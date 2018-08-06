@@ -22,7 +22,7 @@ ___
 
 ____
 
-# Error-Log
+# [Error-Log] https://github.com/prachimehta1214/error-log
 
 ___
 
