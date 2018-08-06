@@ -1,20 +1,8 @@
 # index
 
-# Exercises
-
 ___
 
-
-# Projects
-
-___
-
-
-# Portfolio
-
-___
-
-# Notes
+# [Notes](https://github.com/prachimehta1214/notes)
 
 ___
 
