@@ -18,7 +18,7 @@ ___
 
 ___
 
-# JS-Reference
+# [JS-Reference](https://github.com/prachimehta1214/JS-Reference)
 
 ____
 
@@ -26,11 +26,11 @@ ____
 
 ___
 
-# Exercises
+# [Exercises](https://github.com/prachimehta1214/exercises)
 
 ___
 
-# Vocab 
+# [Vocab](https://github.com/prachimehta1214/vocabulary) 
 
 ___
 
